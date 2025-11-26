@@ -16,7 +16,7 @@ Este é um projeto simples de **Jogo da Velha** desenvolvido com **React**, idea
 - O jogo é entre **dois jogadores (X e O)**.
 - Clique nos quadrados para marcar sua jogada.
 - O jogo detecta automaticamente quem venceu ou se deu empate.
-- Possui **reset automático** ao término da partida *(se implementado)*.
+- Possui um placar que pode ser resetado ao atualizar a página.
 
 ---
 
