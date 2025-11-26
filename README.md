@@ -8,7 +8,7 @@ Este é um projeto simples de **Jogo da Velha** desenvolvido com **React**, idea
 - ⚛ **React**
 - 🟦 **JavaScript**
 - 🎨 **CSS**
-- 🌐 **Vite (se utilizado no projeto)**
+- 🌐 **Vite**
 
 ---
 
