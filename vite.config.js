@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-const repoName = 'https://github.com/maryjenzz/tic-tac-toe'; 
+const repoName = '/tic-tac-toe/';
 
 // https://vitejs.dev/config/
 export default defineConfig({
