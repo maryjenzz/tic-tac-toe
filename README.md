@@ -23,10 +23,3 @@ Este é um projeto simples de **Jogo da Velha** desenvolvido com **React**, idea
 ## 📦 Como Ver o Projeto
 
 Acesse https://maryjenzz.github.io/tic-tac-toe/
-cd tic-tac-toe
-
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm run dev
