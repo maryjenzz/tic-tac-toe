@@ -20,17 +20,6 @@ Este é um projeto simples de **Jogo da Velha** desenvolvido com **React**, idea
 
 ---
 
-## 📦 Como Executar o Projeto
+## 📦 Como Ver o Projeto
 
-```bash
-# Clone este repositório
-git clone https://github.com/maryjenzz/tic-tac-toe.git
-
-# Entre no diretório
-cd tic-tac-toe
-
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm run dev
+Acesse https://maryjenzz.github.io/tic-tac-toe/
